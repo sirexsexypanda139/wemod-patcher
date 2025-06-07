@@ -52,8 +52,9 @@ With this patch you will be able to use the latest version together with Pro.
 ---
 
 ## 🖼️ Screenshots
-![1](./assets/screenshots/app1.png)
-![2](./assets/screenshots/app2.png)
+![app1](https://github.com/user-attachments/assets/d4155031-04e9-424f-91e9-a2f2ea867ef3)
+![app2](https://github.com/user-attachments/assets/d226ec5d-10c2-4310-bac7-24baf69a2dec)
+
 ---
 
 ## 📜 License
